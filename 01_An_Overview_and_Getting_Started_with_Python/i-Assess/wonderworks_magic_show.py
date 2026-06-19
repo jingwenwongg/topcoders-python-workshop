@@ -17,4 +17,4 @@ total_rating = (
 
 average_rating = total_rating / total_people
 
-print(f"The overall average rating for the show is {average_rating:.2f}")
+print(f"The overall average rating for the show is {average_rating:.2f}") 
